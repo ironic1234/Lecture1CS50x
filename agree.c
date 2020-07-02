@@ -10,6 +10,6 @@ int main(void)
     }
     else if (c == 'N' || c == 'n')
     {
-            printf("Not Agreed\n");
+        printf("Not Agreed\n");
     }
 }
